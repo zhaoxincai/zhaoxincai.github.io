@@ -1,40 +1,40 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "Zhaoxin Cai",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://zhaoxincai.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Earth",
-      "countryCode": "US",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/zhaoxincai"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Tsinghua University",
+      "area": "Ph.D in LLM",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
